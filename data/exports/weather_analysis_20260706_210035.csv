@@ -1,0 +1,11 @@
+city,country,temperature_2m,relative_humidity_2m,apparent_temperature,weather_code,wind_speed_10m,pressure_msl,condition
+London,United Kingdom,32.8,15.0,28.5,0,23.0,1016.4,Clear sky
+New York,United States,20.8,94.0,22.5,55,14.1,1018.1,Dense drizzle
+Tokyo,Japan,19.4,91.0,22.0,3,1.9,1014.1,Overcast
+Sydney,Australia,11.7,94.0,9.9,51,13.4,1033.6,Light drizzle
+Dubai,United Arab Emirates,34.9,52.0,38.5,0,15.2,997.5,Clear sky
+Paris,France,34.3,16.0,32.0,1,13.1,1018.9,Mainly clear
+Mumbai,India,27.0,88.0,29.2,95,30.1,1000.3,Thunderstorm
+Cape Town,South Africa,15.4,96.0,16.6,1,3.4,1022.7,Mainly clear
+São Paulo,Brazil,21.3,57.0,22.9,0,0.8,1019.8,Clear sky
+Toronto,Canada,25.6,48.0,25.9,3,14.3,1016.9,Overcast
